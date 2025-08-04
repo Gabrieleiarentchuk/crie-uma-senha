@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libertinus+Serif:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Oswald:wght@200..700&display=swap');
+:root{
+    --branco:white;
+    --cor-de-fundo:#02175d;
+    --fundo-senha:#1a3488;
+    --funto-texto: #1a3488;
+    --borda: #5efbf6;
+    --fonte-principal: 'Oswald';
+    --fonte-segundaria: 'Libertinus Serif';
+}
+body{
+    background-color: var(--cor-de-fundo);
+    color: var(--branco);
+}
+.conteudo-titulo{
+    text-align: center;
+}
+*{
+    font-weight: 400;
+}
