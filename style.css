@@ -5,7 +5,7 @@
     --cor-de-fundo:#151c32;
     --fundo-senha:#172962;
     --funto-texto: #172962;
-    --borda: #f0f3f5;
+    --borda: #bb7bf0;
     --fonte-principal: 'Oswald';
     --fonte-segundaria: 'Libertinus Serif';
 }
@@ -42,8 +42,8 @@ body{
     font-size: 24px;
 }
 img{
-    width: 10%;
-    height: 10%;
+    width: 7%;
+    height: 7%;
 }
 #campo-senha:focus{
     outline: none;
