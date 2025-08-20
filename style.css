@@ -2,9 +2,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Libertinus+Serif:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Oswald:wght@200..700&display=swap');
 :root{
     --branco:white;
-    --cor-de-fundo:#151c32;
-    --fundo-senha:#172962;
-    --funto-texto: #172962;
+    --cor-de-fundo:#10172c;
+    --fundo-senha:#132357f4;
+    --funto-texto: #132357f4;
     --borda: #aa50dd;
     --fonte-principal: 'Oswald';
     --fonte-segundaria: 'Libertinus Serif';
